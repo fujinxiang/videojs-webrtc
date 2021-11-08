@@ -1,5 +1,5 @@
 {
-  "name": "video-webrtc",
+  "name": "videojs-webrtc",
   "version": "0.0.1",
   "description": "Videojs Tech from WebRtc Live Stream",
   "scripts": {
