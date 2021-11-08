@@ -1,6 +1,6 @@
 {
   "name": "videojs-webrtc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Videojs Tech from WebRtc Live Stream",
   "scripts": {
     "type-check": "tsc --noEmit",
